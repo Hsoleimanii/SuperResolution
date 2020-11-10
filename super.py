@@ -30,7 +30,7 @@ cv2.destroyAllWindows()
 cv2.imwrite("./upscaled.png", result)
 
 
-
+#OK
 ###############################################   if you want to use GPU
 # Read the desired model
 """
